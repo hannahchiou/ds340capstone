@@ -6,7 +6,7 @@ This repository contains links to my data sources, code for data cleaning and vi
 
 ## Data Sources
 **Blue Bikes rides**
-- Using rides from January 2023, titled 202301-bluebikes-tripdata.csv
+- Using rides from January 2023, titled 202301-bluebikes-tripdata.zip
 - Source: https://s3.amazonaws.com/hubway-data/index.html
 
 **Blue Bikes stations**
